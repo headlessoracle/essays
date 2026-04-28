@@ -194,6 +194,7 @@ Michael Msebenzi is the founder of Headless Oracle (headlessoracle.com), a crypt
 - Headless Oracle: headlessoracle.com · `/v5/compliance` endpoint
 - `environment.market_state` RFC: github.com/agent-intent/verifiable-intent (PR #9)
 - Sibling `environment.wallet_state` RFC: github.com/agent-intent/verifiable-intent (PR #22), reference implementation at api.insumermodel.com
+- Demo-agent reference implementation: github.com/headlessoracle/demo-agent (131-line public binary, runs end-to-end against live infrastructure)
 
 **Provenance**
-This essay's canonical URL is headlessoracle.com/essays/environment-state-attestation. Markdown source is committed at github.com/headlessoracle/essays tagged `v1.6.4-2026-04-28`. Wayback Machine snapshot taken on publication date.
+This essay is published at github.com/headlessoracle/essays as the canonical source. Markdown source committed and tagged `v1.6.4-2026-04-28` for immutable reference. Canonical URL on headlessoracle.com pending infrastructure rollout. Wayback Machine snapshot taken on publication date.
